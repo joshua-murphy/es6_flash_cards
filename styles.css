@@ -1,0 +1,14 @@
+body {
+  background-color: #f1f1f1;
+}
+
+.title {
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: center;  
+}
+
+.card {
+  cursor: pointer;
+  user-select: none;
+}
